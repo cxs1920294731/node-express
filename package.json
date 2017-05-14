@@ -1,0 +1,20 @@
+{
+  "name": "meadowlarktravel",
+  "version": "0.0.0",
+  "description": "Sample website for web Development with node and Express",
+  "main": "meadowlark.js",
+  "dependencies": {
+    "express": "^4.15.2",
+    "express3-handlebars": "^0.5.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cxs1920294731/node-express"
+  },
+  "author": "cao",
+  "license": "ISC"
+}
